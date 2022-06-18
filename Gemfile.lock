@@ -1,0 +1,20 @@
+PATH
+  remote: .
+  specs:
+    rails_style (0.0.1)
+      bundler (>= 2.1.4)
+      rake
+
+GEM
+  remote: https://rubygems.org/
+  specs:
+    rake (13.0.6)
+
+PLATFORMS
+  x86_64-darwin-21
+
+DEPENDENCIES
+  rails_style!
+
+BUNDLED WITH
+   2.3.13
