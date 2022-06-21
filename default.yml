@@ -29,11 +29,8 @@ Style/NumericLiterals:
 Style/RedundantSelf:
   Enabled: false
 
-# Use double-quotes instead of single-quotes
-# Double quotes allow for string interpolation, so we enforce
-# double quotes for consistency.
 Style/StringLiterals:
-  EnforcedStyle: double_quotes
+  Enabled: false
 
 Style/SymbolArray:
   Enabled: false
