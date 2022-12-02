@@ -101,3 +101,4 @@ AllCops:
     - "vendor/**/*"
     - "config.ru"
     - "Rakefile"
+    - "lib/tasks/auto_annotate_models.rake"
